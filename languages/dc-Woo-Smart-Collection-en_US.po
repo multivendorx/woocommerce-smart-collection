@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Demo Plugin\n"
+"POT-Creation-Date: 2014-03-24 17:18+0530\n"
+"PO-Revision-Date: 2014-03-24 17:18+0530\n"
+"Last-Translator: Dualcube <admin@dualcube.com>\n"
+"Language-Team: Dualcube <admin@dualcube.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\smart\\wp-content\\plugins\\woo-smart-"
+"collection\n"
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings-dc_WC_SC_general.php:30
+msgid "Enable Woo Smart Collection"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings-dc_WC_SC_general.php:31
+msgid "Append with existing smart product categories"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings-dc_WC_SC_general.php:31
+msgid "If unchecked will replace existing smart product categories"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings-dc_WC_SC_general.php:32
+msgid "Generate Product Smart Collection from Product Title"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings-dc_WC_SC_general.php:33
+msgid "Generate Product Smart Collection from Product Tags"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings-dc_WC_SC_general.php:69
+msgid "Settings updated"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings.php:27
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings.php:28
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/admin/class-dc-Woo-Smart-Collection-settings.php:41
+msgid "Woo Smart Collection"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/classes/class-dc-Woo-Smart-Collection-admin.php:93
+msgid "Powered by"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/classes/class-dc-Woo-Smart-Collection-admin.php:93
+msgid "Dualcube"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\woo-smart-collection/includes/dc-Woo-Smart-Collection-core-functions.php:17
+#, php-format
+msgid ""
+"%sWoo Samrt Collection is inactive.%s The %sWooCommerce plugin%s must be "
+"active for the Woo Smart Collection to work. Please %sinstall & activate "
+"WooCommerce%s"
+msgstr ""
+
+#~ msgid "ID Number"
+#~ msgstr "Identification"
